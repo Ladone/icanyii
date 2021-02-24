@@ -35,4 +35,4 @@ tests/_support/_generated
 /Dev/docker-compose.yml
 /Dev/.env
 .env
-docker-compose.yml_2
+docker-compose.yml
